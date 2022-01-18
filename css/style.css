@@ -32,6 +32,18 @@ img {
 
 }
 
+.second-img{
+    display: none;
+}
+
+.card:hover .second-img{
+    display: inline;
+}
+
+.card:hover .first-img{
+    display: none;
+}
+
 .heart{
     background-color: white;
     position: absolute;
@@ -60,7 +72,6 @@ img {
     color: white;
     position: absolute;
     padding: 3px 5px;
-    left: 0;
     bottom: 85px;
     z-index: 1;
 }
