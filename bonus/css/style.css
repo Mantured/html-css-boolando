@@ -33,7 +33,7 @@ img {
 }
 
 .card:hover *{
-    background-color: black;
+    background-color: rgb(47, 0, 255);
     color:greenyellow
 }
 
