@@ -62,17 +62,17 @@ img {
 
 .eco{
     background-color: green;
-    left: 75px;
+    left: 45px;
 
 }
 
 .position-style{
     font-weight: bold;
-    font-size: 20pt;
+    font-size: 10pt;
     color: white;
     position: absolute;
     padding: 3px 5px;
-    bottom: 85px;
+    bottom: 65px;
     z-index: 1;
 }
 .brend{
